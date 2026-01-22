@@ -78,9 +78,10 @@ This project currently does not use any license. Feel free to modify for persona
 
 ---
 
-## ✉️ Contact
+## 👤 Author
 
-Built with ❤️ by [Yatharth Bhavsar](https://github.com/Yatharth-Bhavsar).  
-Feel free to connect or raise an issue for any help!
+**[Priyanshu Khambalkar](https://github.com/18PriyanshuK)**  
+  
+
 
 
