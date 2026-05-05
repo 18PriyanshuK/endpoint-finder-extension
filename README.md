@@ -198,7 +198,7 @@ Contributions and feature suggestions are welcome.
 
 ```bash
 # Fork the repository
-git fork https://github.com/18PriyanshuK/endpoint-finder-extension.git
+git fork https://github.com/PriyanshuKhambalkar/endpoint-finder-extension.git
 
 # Create a feature branch
 git checkout -b feature/your-feature-name
