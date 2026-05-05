@@ -221,7 +221,7 @@ Ideas for contribution:
 ## 📜 License
 
 This project is licensed under the [MIT License](https://github.com/PriyanshuKhambalkar/Endpoint-finder-extension/blob/da84db5d420f7a525549e71859883932f3adb9f1/LICENSE) - see the LICENSE file for details.<br/>
-For commercial use or redistribution, please contact the author.
+For commercial use or redistribution, please get in touch with the author.
 
 ---
 
